@@ -1,0 +1,1 @@
+Downloaded the words_alpha.txt file from https://github.com/dwyl/english-words/ (len 307103)
