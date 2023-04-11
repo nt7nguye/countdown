@@ -1,0 +1,1 @@
+Scrabble official word list at https://www.wordgamedictionary.com/enable/download/enable.txt
